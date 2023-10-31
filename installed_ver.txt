@@ -1,0 +1,5 @@
+Thu 19 Oct 15:38:36 IST 2023
+-> Extracting package /var/cache/kvmd/kvmd-platform-v2-hdmiusb-rpi4-3.47-2-any.pkg.tar.xz into /
+-> Extracting package /var/cache/kvmd/kvmd-3.47-1-any.pkg.tar.xz into /
+-> Extracting package /var/cache/kvmd/kvmd-webterm-0.42-1-any.pkg.tar.xz into /
+-> Extracting package /var/cache/kvmd/janus-0.11.3-raspbian-armv7l.pkg.tar.xz into /
